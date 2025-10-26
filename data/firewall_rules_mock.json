@@ -1,0 +1,7 @@
+[
+  {"Rule_ID": 1, "Source_IP": "0.0.0.0/0", "Destination_IP": "10.0.0.5", "Port": 22, "Protocol": "TCP", "Action": "Allow"},
+  {"Rule_ID": 2, "Source_IP": "192.168.1.10", "Destination_IP": "10.0.0.5", "Port": 443, "Protocol": "TCP", "Action": "Allow"},
+  {"Rule_ID": 3, "Source_IP": "0.0.0.0/0", "Destination_IP": "10.0.0.10", "Port": 3389, "Protocol": "Allow"},
+  {"Rule_ID": 4, "Source_IP": "10.0.0.0/24", "Destination_IP": "10.0.0.5", "Port": 80, "Protocol": "TCP", "Action": "Allow"}
+]
+

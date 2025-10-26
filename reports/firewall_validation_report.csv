@@ -1,0 +1,5 @@
+RuleID,Issue,Description
+1,Overly permissive rule,Rule 1 allows traffic from any source.
+1,Sensitive port open to all,Port 22 is exposed globally.
+3,Overly permissive rule,Rule 3 allows traffic from any source.
+3,Sensitive port open to all,Port 3389 is exposed globally.
